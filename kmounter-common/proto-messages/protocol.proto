@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+package kmounter;
+
+// Protocol packet to let the server understand the request
+message Packet {
+    int32 size = 1;
+    string type = 2;
+}
+
+message Empty {}

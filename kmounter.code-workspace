@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": ".",
+			"name": "-- All project --"
+		},
+		{
+			"path": "kmounterd",
+			"name": "Daemon"
+		},
+		{
+			"path": "kmounter-cli",
+			"name": "CLI"
+		},
+		{
+			"path": "kmounter-gui",
+			"name": "GUI"
+		},
+		{
+			"path": "kmounter-common",
+			"name": "Common lib"
+		}
+	],
+	"settings": {
+		"files.insertFinalNewline": true,
+		"python.formatting.provider": "autopep8",
+		"editor.formatOnSave": true
+	}
+}
