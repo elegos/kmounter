@@ -55,6 +55,7 @@ Common library between daemon and client(s), storing `*.proto` files, derived `*
 
 ## Prioritized to-be:
 
+- CLI mount configuration file (`~/.local/etc/kmounter-cli/`?)
 - Mount for backup (rsync?)
 - Mount other NFS versions (4.0)
 - Other network filesystems (Samba?)
