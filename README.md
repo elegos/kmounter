@@ -56,6 +56,7 @@ Common library between daemon and client(s), storing `*.proto` files, derived `*
 ## Prioritized to-be:
 
 - Mount for backup (rsync?)
+- Mount other NFS versions (4.0)
 - Other network filesystems (Samba?)
 
 ## Contribute
